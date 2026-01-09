@@ -15,6 +15,7 @@ import notfound from "./Pages/404";
 import NotFoundPage from "./Pages/404";
 import { supabase } from "./supabase";
 
+
 // Admin Pages
 import AdminLogin from "./Pages/AdminLogin";
 import AdminDashboard from "./Pages/AdminDashboard";
@@ -131,5 +132,7 @@ function App() {
     </BrowserRouter>
   );
 }
+
+
 
 export default App;

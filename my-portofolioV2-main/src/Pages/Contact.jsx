@@ -148,7 +148,7 @@ const ContactPage = () => {
           >
             <div className="flex justify-between items-start mb-8">
               <div>
-                <h2 className="text-4xl font-bold mb-3 text-transparent bg-clip-text bg-gradient-to-r from-[#dc2626] to-[#f43f5e]">
+                <h2 className="text-4xl font-bold mb-3 text-transparent bg-clip-text bg-gradient-to-r from-[#dc2626] to-[#f43f5e] text-center">
                   Hubungi
                 </h2>
                 <p className="text-gray-400 text-center">
