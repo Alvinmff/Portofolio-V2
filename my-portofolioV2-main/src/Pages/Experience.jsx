@@ -200,7 +200,7 @@ const ExperiencePage = () => {
   const experiences = [
     {
       position: "Meteorology Information System",
-      company: "ndonesian Agency for Meteorology, Climatology, and Geophysics (BMKG)- Internship",
+      company: "Indonesian Agency for Meteorology, Climatology, and Geophysics (BMKG)- Internship",
       location: "Surabaya, Indonesia",
       period: "February 2026 - Now",
       description: "Analyzed web application security utilizing industry standard tools such as Burp Suite, Nuclei, and WPScan, combined with manual testing techniques to detect system weaknesses and logic flaws. Created detailed vulnerability assessment reports, documenting findings, severity levels, and providing actionable technical recommendations for remediation. Contributed to the security enhancement of the clients digital infrastructure by collaborating with the team to propose effective system hardening strategies.",
