@@ -199,6 +199,30 @@ const ExperiencePage = () => {
   // Sample experience data - you can replace with your actual data
   const experiences = [
     {
+      position: "Meteorology Information System",
+      company: "ndonesian Agency for Meteorology, Climatology, and Geophysics (BMKG)- Internship",
+      location: "Surabaya, Indonesia",
+      period: "February 2026 - Now",
+      description: "Analyzed web application security utilizing industry standard tools such as Burp Suite, Nuclei, and WPScan, combined with manual testing techniques to detect system weaknesses and logic flaws. Created detailed vulnerability assessment reports, documenting findings, severity levels, and providing actionable technical recommendations for remediation. Contributed to the security enhancement of the clients digital infrastructure by collaborating with the team to propose effective system hardening strategies.",
+      technologies: [
+      "Burp Suite",
+      "Nuclei",
+      "Nmap",
+      "SQLmap",
+      "OWASP Top 10",
+      "Web Application Security Testing",
+      "Linux (Kali Linux)",
+      "Vulnerability Assessment & Reporting"
+    ],
+      achievements: [
+      "Identified and documented multiple web application vulnerabilities through automated and manual security testing techniques",
+      "Produced comprehensive vulnerability assessment reports including risk severity, impact analysis, and technical remediation recommendations",
+      "Contributed to improving overall security posture by assisting in system hardening strategies aligned with OWASP best practices",
+      "Enhanced accuracy of security findings by combining tool-based scanning with manual logic flaw analysis",
+      "Collaborated with the security team to validate findings and ensure actionable remediation outcomes"
+    ]
+    },
+    {
       position: "Junior Cybersecurity Engineer",
       company: "PT Vinix Seven Aurum (VINIX7) - Internship",
       location: "Yogyakarta, Indonesia",
